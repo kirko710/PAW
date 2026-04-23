@@ -1,0 +1,7 @@
+Nama = Reyhan Hadyan Nabil
+Kelas = TIF - C
+NIM = 245150207111034
+Tempat, Tanggal lahir = Bandung, 28 April 2005
+Status = Mahasiswa
+Kewarganegaraan = Indonesia
+
